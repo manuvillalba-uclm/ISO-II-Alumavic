@@ -1,0 +1,14 @@
+Versiones M.m.d
+
+Versión inicial 1.0.0
+Conforme vayamos completando hitos vamos avanzando, por ejemplo acabar el Caso de Uso 1 pasaríamos a la 1.2.0.
+La 1.6.29 podría ser nuestro Producto Mínimo Viable(PMV). Ya a partir de ahí van saliendo alphas (releases)que tiene la 
+gente que controla bastante la aplicación y el entorno, sus versiones hijas son llamasdas (issue).
+
+Cuando la alpha sea estable podemos abrir una beta (release) para un grupo de gente más amplio, repetimos el proceso de 
+los (issues) y finalmente llegamos a versión final,despegable o comerciaizable.Con sus correspondientes 2 años
+de garantía de mantenimiento correctivo.
+
+La evolución es para ver cómo evoluciona el proyecto,creando una serie de dependencias que debemos resolver.
+
+Introducing github, hasta que el capítulo 4. Persona consultor en git.
