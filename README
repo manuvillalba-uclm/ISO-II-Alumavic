@@ -1,0 +1,5 @@
+Hola!
+
+Para poder trabajar en el proyecto necesitas la última versión de Maven y comprobar que funciona haciendo mvn -v.
+Después en Intellij borrais el proyecto ISO-II-Alumavic si lo tenéis creado y haceis un clone de este repositorio.
+Intellij os va a preguntar si queréis transformar el proyecto en un proyecto maven, dadle ok y se supone que estáis listos.
