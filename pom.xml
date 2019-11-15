@@ -6,9 +6,18 @@
 
   <groupId>ISOII.alumavic.tallercoches</groupId>
   <artifactId>alumavic-tallercoches</artifactId>
+  <packaging>pom</packaging>
   <version>1.0</version>
+    <modules>
+        <module>Iter1</module>
+      <module>Iter2</module>
+      <module>Iter3</module>
+      <module>Iter4</module>
+      <module>Iter5</module>
+    </modules>
 
-  <name>alumavic-tallercoches</name>
+
+    <name>alumavic-tallercoches</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
