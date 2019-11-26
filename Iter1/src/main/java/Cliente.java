@@ -1,3 +1,8 @@
+/**
+ * Class Cliente
+ */
+
+
 public class Cliente extends Persona {
 
 	private int Hora_llegada;

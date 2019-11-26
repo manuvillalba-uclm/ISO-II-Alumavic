@@ -1,4 +1,4 @@
-public class piezas {
+public class Piezas {
 
 	private int Cantidad;
 	private int Id;
