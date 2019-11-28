@@ -10,12 +10,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>Iter4</artifactId>
-    <version>1.4</version>
+    <version>1.0</version>
     <dependencies>
         <dependency>
             <groupId>ISOII.alumavic.tallercoches</groupId>
             <artifactId>Iter2</artifactId>
-            <version>1.2</version>
+            <version>1.0</version>
         </dependency></dependencies>
 
 
