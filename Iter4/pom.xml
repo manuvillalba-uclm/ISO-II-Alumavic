@@ -11,6 +11,12 @@
 
     <artifactId>Iter4</artifactId>
     <version>1.4</version>
+    <dependencies>
+        <dependency>
+            <groupId>ISOII.alumavic.tallercoches</groupId>
+            <artifactId>Iter2</artifactId>
+            <version>1.2</version>
+        </dependency></dependencies>
 
 
 </project>
