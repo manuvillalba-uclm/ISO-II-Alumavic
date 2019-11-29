@@ -1,6 +1,7 @@
 /**
  * Estadisticas
  */
+
 public class Estadisticas {
 
 	private double tiempo_medio_box;
