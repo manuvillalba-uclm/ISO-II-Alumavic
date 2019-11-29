@@ -1,3 +1,7 @@
+/**
+ * Class Cuenta
+ */
+
 public class Cuenta {
 
 	private int Piezas;

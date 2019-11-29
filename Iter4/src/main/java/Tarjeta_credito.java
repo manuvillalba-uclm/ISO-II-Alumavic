@@ -1,3 +1,7 @@
+/**
+ * Class Tarjeta_credito
+ */
+
 public class Tarjeta_credito {
 
 	private int Numero_tarjeta;
